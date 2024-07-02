@@ -1,9 +1,9 @@
 ### Olá, meu nome é Vítor H. Fernandes 👋
 
-- 🔭 Estou trabalhando com NextJS 
-- 🌱 Estou estudando Engenharia de Software
-- 📫 Entre em contato comigo: vitorfernandesdeutsch@gmail.com
-- ⚡ Apaixonado por criar soluções eficientes e escaláveis
+- 🔭 I'm working with NextJS 
+- 🌱 I'm studying Software Engineering
+- 📫 Contact me: vitorfernandesdeutsch@gmail.com
+- ⚡ Passionate about creating efficient and scalable solutions
 ##
 <div>
   <a href="https://github.com/VitorHFernandes" style="text-decoration: none">
