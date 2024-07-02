@@ -17,7 +17,7 @@ I'm a self-taught passionate developer from Brazil 🇧🇷
 
 #### More Stats
 
-![VitorHFernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&theme=dracula&hide_border=false) ![VitorHFernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![VitorHFernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&theme=dracula&hide_border=false) ![VitorHFernandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false)
 
 <br />
 <br />
