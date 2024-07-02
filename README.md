@@ -21,13 +21,13 @@ I'm a self-taught passionate developer from Brazil 🇧🇷
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![VitorHFernandes's Stats](https://github-readme-stats.vercel.app/api?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false&count_private=true) |
 | ------------- | ------------- |
 
-#### Top Repositories
+#### More Stats
 
 
-![VitorHFernandes's Stats](https://github-readme-stats.vercel.app/api?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
 
 ![VitorHFernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&theme=dracula&hide_border=false)
 
