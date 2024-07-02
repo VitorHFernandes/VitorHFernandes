@@ -1,4 +1,4 @@
-### Olá, meu nome é Vítor H. Fernandes 👋
+### Hello, my name is Vítor H. Fernandes 👋
 
 - 🔭 I'm working with NextJS 
 - 🌱 I'm studying Software Engineering
