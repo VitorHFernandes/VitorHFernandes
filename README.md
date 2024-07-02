@@ -21,13 +21,9 @@ I'm a self-taught passionate developer from Brazil 🇧🇷
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| ![VitorHFernandes's Stats](https://github-readme-stats.vercel.app/api?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false&count_private=true) |
-| ------------- | ------------- |
+ ![VitorHFernandes's Stats](https://github-readme-stats.vercel.app/api?username=VitorHFernandes&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
 #### More Stats
-
-
-
 
 ![VitorHFernandes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&theme=dracula&hide_border=false)
 
