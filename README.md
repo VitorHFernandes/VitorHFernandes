@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vítor H. Fernandes 👋
 
-- 🔭 Estou trabalhando com ReatJS 
+- 🔭 Estou trabalhando com NextJS 
 - 🌱 Estou estudando Engenharia de Software
 - 📫 Entre em contato comigo: vitorfernandesdeutsch@gmail.com
 - ⚡ Apaixonado por criar soluções eficientes e escaláveis
