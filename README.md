@@ -19,7 +19,9 @@
 </div>
   
 ##
-  
+  <div align='center'>
+    <a height="150em" href="http://www.github.com/VitorHFernandes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
   <div>
   <a href = "mailto:vitorfernandesdeutsch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vítor-h-fernandes-417817198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
