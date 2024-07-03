@@ -6,9 +6,9 @@
 - ⚡ Passionate about creating efficient and scalable solutions
 ##
 <div>
-  <a href="https://github.com/VitorHFernandes" style="text-decoration: none">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorHFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHFernandes&layout=compact&langs_count=7&theme=dark"/>
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorHFernandes&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHFernandes&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
       <div align='center'>
     <a height="150em" href="http://www.github.com/VitorHFernandes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorHFernandes&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
