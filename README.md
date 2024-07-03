@@ -4,6 +4,7 @@
 - 🌱 I'm studying Software Engineering
 - 📫 Contact me: vitorfernandesdeutsch@gmail.com
 - ⚡ Passionate about creating efficient and scalable solutions
+- 🏳️‍🌈 O cara mais gay do mundo
 ##
 <div>
 <div align='center'>
