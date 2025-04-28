@@ -1,6 +1,6 @@
 ### Hello, my name is Vítor H. Fernandes 👋
 
-- 🔭 I'm working with NextJS 
+- 🔭 I'm working with GOlang and NextJS 
 - 🌱 I'm studying Software Engineering
 - 📫 Contact me: vitorfernandesdeutsch@gmail.com
 - ⚡ Passionate about creating efficient and scalable solutions
